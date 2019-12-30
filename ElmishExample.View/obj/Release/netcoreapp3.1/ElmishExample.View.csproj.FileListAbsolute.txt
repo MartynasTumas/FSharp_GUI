@@ -1,0 +1,15 @@
+C:\Users\Martynas\source\repos\FSharp_GUI\ElmishExample.View\bin\Release\netcoreapp3.1\ElmishExample.View.deps.json
+C:\Users\Martynas\source\repos\FSharp_GUI\ElmishExample.View\bin\Release\netcoreapp3.1\ElmishExample.View.dll
+C:\Users\Martynas\source\repos\FSharp_GUI\ElmishExample.View\bin\Release\netcoreapp3.1\ElmishExample.View.pdb
+C:\Users\Martynas\source\repos\FSharp_GUI\ElmishExample.View\obj\Release\netcoreapp3.1\ElmishExample.View.csprojAssemblyReference.cache
+C:\Users\Martynas\source\repos\FSharp_GUI\ElmishExample.View\obj\Release\netcoreapp3.1\GameWindow.g.cs
+C:\Users\Martynas\source\repos\FSharp_GUI\ElmishExample.View\obj\Release\netcoreapp3.1\UserControl1.g.cs
+C:\Users\Martynas\source\repos\FSharp_GUI\ElmishExample.View\obj\Release\netcoreapp3.1\ElmishExample.View_MarkupCompile.cache
+C:\Users\Martynas\source\repos\FSharp_GUI\ElmishExample.View\obj\Release\netcoreapp3.1\ElmishExample.View_MarkupCompile.lref
+C:\Users\Martynas\source\repos\FSharp_GUI\ElmishExample.View\obj\Release\netcoreapp3.1\GameWindow.baml
+C:\Users\Martynas\source\repos\FSharp_GUI\ElmishExample.View\obj\Release\netcoreapp3.1\UserControl1.baml
+C:\Users\Martynas\source\repos\FSharp_GUI\ElmishExample.View\obj\Release\netcoreapp3.1\ElmishExample.View.g.resources
+C:\Users\Martynas\source\repos\FSharp_GUI\ElmishExample.View\obj\Release\netcoreapp3.1\ElmishExample.View.AssemblyInfoInputs.cache
+C:\Users\Martynas\source\repos\FSharp_GUI\ElmishExample.View\obj\Release\netcoreapp3.1\ElmishExample.View.AssemblyInfo.cs
+C:\Users\Martynas\source\repos\FSharp_GUI\ElmishExample.View\obj\Release\netcoreapp3.1\ElmishExample.View.dll
+C:\Users\Martynas\source\repos\FSharp_GUI\ElmishExample.View\obj\Release\netcoreapp3.1\ElmishExample.View.pdb
